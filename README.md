@@ -55,17 +55,11 @@ Fase 4:
 Padronização de Commits
 
 - `feat`: nova funcionalidade
-
 - `fix`: correção de bug
-
 - `chore`: tarefas gerais que não afetam o código em produção (configs, linter)
-
 - `docs`: mudanças na documentação
-
 - `style`: formatação, ponto e vírgula, espaços em branco, etc.
-
 - `refactor`: refatoração de código (sem nova funcionalidade ou bug fix)
-
 - `test`: adição ou ajuste de testes
 
 ## Licença
