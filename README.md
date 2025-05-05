@@ -1,6 +1,6 @@
-<h1>🍕 Kanban Board
+<h1>Kanban Board
     <img src="https://img.shields.io/static/v1?label=STATUS&message=Em construção&color=GREEN&style=for-the-badge" width="150" height="25" />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=kanban-board-001&" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=kanban-board&" />
 </h1>
 
 <div class="author">
