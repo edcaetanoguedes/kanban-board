@@ -70,7 +70,7 @@ Padronização de Commits
 
 ## Licença
 
-Este projeto está sob licensa MIT - veja o arquivo [LICENSE.md](https://github.com/edcaetanoguedes/sheet-erp/license)
+Este projeto está sob licensa MIT - veja o arquivo [LICENSE.md](https://github.com/edcaetanoguedes/kanban-board/license)
 
 ## Agradecimentos
 
